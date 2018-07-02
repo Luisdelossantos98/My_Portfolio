@@ -6,3 +6,11 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.lowerfooter {
+    background: lightgrey;
+    position: sticky;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+
+}
