@@ -6,11 +6,27 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-.lowerfooter {
-    background: lightgrey;
-    position: sticky;
-    padding: 20px;
-    font-size: 30px;
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
     text-align: center;
+    padding-bottom: 40px;
 
+}
+.uff{
+    padding-top: 20px;
+}
+.uf{
+    width: 290px;
+}
+.if{
+    text-align: center;
+    color: white;
+}
+.un{
+    width: 490px;
 }
